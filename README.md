@@ -48,20 +48,20 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![329772469-5b2f6559-2667-4c34-9750-3c9a75f21687](https://github.com/samreen-sk/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149347632/9dda9e38-1bf8-43e5-83f2-6d7499513e1f)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![329772491-768042d8-3bdc-4c31-9f6b-fab4ff8a9106](https://github.com/samreen-sk/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149347632/33af9184-80ed-449a-b1df-1130396d9745)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![329772519-26fbfd0d-cb00-4c92-9893-40e730e62f6b](https://github.com/samreen-sk/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149347632/eec87f39-0ba6-4ae5-a7fc-cf3862837ef6)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![329772539-05e9033b-6c29-4300-b23c-141516b7058c](https://github.com/samreen-sk/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149347632/e487111c-5431-4f3d-b291-33f31ed56a58)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+## Final Output:
+![329772581-1a18c994-db67-493c-9851-173ceef92589](https://github.com/samreen-sk/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149347632/6cd11a23-113c-422e-9133-f47fdff539c7)
 
-## Output:
 
-### Name: 
-### Register Number:
+### Name : Shaik Samreen
+### Register Number: 212223110047
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
